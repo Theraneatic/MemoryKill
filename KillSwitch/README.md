@@ -1,2 +1,2 @@
 # This is the "safe" version of MemoryKill.
-To stop this version, press the X, Y, and Z keys. 
+To stop this version, press the X, Y, and Z keys and hold them down. 
